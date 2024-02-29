@@ -36,7 +36,9 @@ intersphinx_mapping = {}
 doc_url = 'https://docs.onap.org/projects'
 master_doc = 'index'
 
-exclude_patterns = ['.tox']
+exclude_patterns = [
+    '.tox'
+]
 
 spelling_word_list_filename='spelling_wordlist.txt'
 spelling_lang = "en_GB"
