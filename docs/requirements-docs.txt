@@ -5,4 +5,7 @@ sphinxcontrib-seqdiag # BSD
 sphinxcontrib-swaggerdoc
 sphinxcontrib-spelling
 sphinxcontrib-plantuml
+sphinx_toolbox
+autopep8
+pylint
 six
