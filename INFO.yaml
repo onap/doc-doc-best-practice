@@ -28,7 +28,7 @@ meetings:
       repeats: ''
       time: ''
 repositories:
-    - 'doc-best-practice'
+    - 'doc/doc-best-practice'
 committers:
     - <<: *onap_doc_ptl
     - name: 'Eric Debeau'
